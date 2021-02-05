@@ -205,3 +205,7 @@ p1_navigation/Banana_Windows_x86_64/Banana_Data/boot.config
 p1_navigation/Banana_Windows_x86_64/Banana_Data/app.info
 p1_navigation/Banana_Windows_x86_64/Banana.exe
 p1_navigation/Navigation Project.docx
+p2_continuous-control/Continuous_Control_Adapted_From_Catastropha.ipynb
+p2_continuous-control/Catastropha.ipynb
+p2_continuous-control/checkpoint_actor.pth
+p2_continuous-control/checkpoint_critic.pth
